@@ -1,0 +1,38 @@
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.container1{
+    align-content: center;
+    align-items: center;
+    display: flex;
+    width: 70%;
+    text-align: start;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+}
+
+.container{
+    padding-left: 50px;
+}
+
+ul{
+  display: flex;
+  padding-left: 7rem;
+}
